@@ -19,7 +19,6 @@ function App() {
             <About />
           </Route>
           <Route path="/contact">
-
             <Contact />
           </Route>
         </Switch>
